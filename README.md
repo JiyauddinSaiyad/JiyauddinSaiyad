@@ -1,37 +1,134 @@
-<h1 align="center">Hi 👋, I'm Jiyauddin</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Jiyauddin+Saiyad;FullStack Developer+%7C+Masai+Student+%7C+Software+Engineer;AI+%7C+Computer+Vision+%7C+Bots%7C" alt="Typing SVG" />
+</a>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jiyauddinsaiyad" alt="jiyauddinsaiyad" /></a> </p>
+<a href="https://jiyauddinsaiyad.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Jiyauddin-red?style=flat-square">
+</a>  
+<a href="https://drive.google.com/file/d/17k58hn7wRxX3EPdt2_otJYI6cnjGV-TB/view?usp=drivesdk">
+    <img src="https://img.shields.io/badge/PDF-Resume-red?style=flat-square&logo=adobe">
+</a>  
+<a href="https://www.linkedin.com/in/jiyauddin-saiyad/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:zeeyauddinsaiyad@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
-- 🔭 I’m currently working on [Portfolio](https://jiyauddinsaiyad.github.io/)
+<br/> 
 
-- 🌱 I’m currently learning **JAVA and React**
+<a href="https://github.com/JiyauddinSaiyad">
+    <img src="https://github-stats-alpha.vercel.app/api?username=JiyauddinSaiyad&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
 
-- 👯 I’m looking to collaborate on [Music Player Like Spotify](N/A)
-
-- 🤝 I’m looking for help with [Online Hyperlocal Startup](https://yourfarm.in)
-
-- 👨‍💻 All of my projects are available at [https://jiyauddinsaiyad.github.io/](https://jiyauddinsaiyad.github.io/)
-
-- 💬 Ask me about **react,node.js, css, JAVA**
-
-- 📫 How to reach me **Zeeyauddinsaiyad@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/17k58hn7wRxX3EPdt2_otJYI6cnjGV-TB/view](https://drive.google.com/file/d/17k58hn7wRxX3EPdt2_otJYI6cnjGV-TB/view)
-
-- ⚡ Fun fact **I am PRO 😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jiyauddin-saiyad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jiyauddin-saiyad" height="30" width="40" /></a>
-<a href="https://instagram.com/zeeyauddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zeeyauddin" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+* 📖 Pursuing FullStack in MERN and JAVA @ [MASAI School](https://www.masaischool.com/). 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiyauddinsaiyad&show_icons=true&locale=en&layout=compact" alt="jiyauddinsaiyad" /></p>
+* Adaptable and responsible web developer capable of writing production-ready code
+using HTML, CSS, JavaScript on the front-end and NodeJs, Express.Js and JAVA
+on the back-end to build single-page applications. Looking forward to work in a
+fast-paced environment and playing a key role in a company's growth. Hope to work in
+a challenging environment as a specialized JAVA / MERN developer.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiyauddinsaiyad&show_icons=true&locale=en" alt="jiyauddinsaiyad" /></p>
+* 💡 Open to collaborating on projects and innovative ideas. 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiyauddinsaiyad&" alt="jiyauddinsaiyad" /></p>
+* 💻 Currently working on HyperLocal Startup , AI and React Web App.
+
+### 🖥️ Open-Source Projects
+<table>
+<tr><th>Machine Learning / AI</th>
+<tr><td>
+
+|Title | Stars | Technologies|
+|--|--|--|
+| [ChatSet-AI](https://github.com/JiyauddinSaiyad/chatSet) | <img alt="Stars" src="https://img.shields.io/github/stars/JiyauddinSaiyad/chatSet?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![OpenAi](https://img.shields.io/badge/OpenAi-black?style=flat-square&logo=openai) ![Vite](https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite)|
+|
+
+</td></tr> </table>
+
+<table>
+<tr><th>Personal </th>
+<tr><td>
+
+|Title | Stars | Technologies|
+|--|--|--|
+| [My Portfolio](https://github.com/JiyauddinSaiyad/JiyauddinSaiyad.github.io) | <img alt="Stars" src="https://img.shields.io/github/stars/JiyauddinSaiyad/JiyauddinSaiyad.github.io?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react)  ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
+| [Sample Project](https://github.com/JiyauddinSaiyad/lame-fairies-5020) | <img alt="Stars" src="https://img.shields.io/github/stars/JiyauddinSaiyad/lame-fairies-5020?style=flat-square&labelColor=black"/> | ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html) ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)<br>![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
+
+
+</td></tr> </table>
+
+## 💻 WORK EXPERIENCE
+
+### DEC 2021 - APRIL 2022
+* Zaroori | Co-Founder <br>
+Responsibility : <br>
+WordPress Developer <br>
+Operation Manager
+
+### DEC 2017- PRESENT
+* Freelancer | Individual Freelancer <br>
+Responsibility : <br>
+WordPress Developer <br>
+UI/UX Designer
+
+
+## 📈 Stats
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiyauddinSaiyad&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JiyauddinSaiyad&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JiyauddinSaiyad&theme=dracula)
+
+<br>
+|Title | Stars | Technologies|
+|--|--|--|
+| [ChatSet-AI](https://github.com/JiyauddinSaiyad/chatSet) | <img alt="Stars" src="https://img.shields.io/github/stars/JiyauddinSaiyad/chatSet?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![OpenAi](https://img.shields.io/badge/OpenAi-black?style=flat-square&logo=openai) ![Vite](https://img.shields.io/badge/Vite-black?style=flat-square&logo=vite)|
+|
+
+</td></tr> </table>
+
+<table>
+<tr><th>Personal </th>
+<tr><td>
+
+|Title | Stars | Technologies|
+|--|--|--|
+| [My Portfolio](https://github.com/JiyauddinSaiyad/JiyauddinSaiyad.github.io) | <img alt="Stars" src="https://img.shields.io/github/stars/JiyauddinSaiyad/JiyauddinSaiyad.github.io?style=flat-square&labelColor=black"/> | ![React](https://img.shields.io/badge/REACT-black?style=flat-square&logo=react)  ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![CircleCI](https://img.shields.io/badge/CI-black?style=flat-square&logo=circleci) ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
+| [Sample Project](https://github.com/JiyauddinSaiyad/lame-fairies-5020) | <img alt="Stars" src="https://img.shields.io/github/stars/JiyauddinSaiyad/lame-fairies-5020?style=flat-square&labelColor=black"/> | ![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html) ![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=css)<br> ![MySQL](https://img.shields.io/badge/MySQL-black?style=flat-square&logo=mysql) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)<br>![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku) |
+
+</td><td>
+
+
+</td></tr> </table>
+
+## 💻 WORK EXPERIENCE
+
+### DEC 2021 - APRIL 2022
+* Zaroori | Co-Founder <br>
+Responsibility : <br>
+WordPress Developer <br>
+Operation Manager
+
+### DEC 2017- PRESENT
+* Freelancer | Individual Freelancer <br>
+Responsibility : <br>
+WordPress Developer <br>
+UI/UX Designer
+
+
+## 📈 Stats
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiyauddinSaiyad&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JiyauddinSaiyad&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JiyauddinSaiyad&theme=dracula)
+
+<br>
