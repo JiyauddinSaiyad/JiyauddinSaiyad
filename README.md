@@ -25,8 +25,6 @@
 
 </p>
 
-* 📖 Pursuing FullStack in MERN and JAVA @ [MASAI School](https://www.masaischool.com/). 
-
 * Adaptable and responsible web developer capable of writing production-ready code
 using HTML, CSS, JavaScript on the front-end and NodeJs, Express.Js and JAVA
 on the back-end to build single-page applications. Looking forward to work in a
